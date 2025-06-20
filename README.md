@@ -1,5 +1,3 @@
-That's perfect! I have both files now. Here's a README.md file tailored for your GitHub repository, incorporating details from both your FastAPI application and your HTML template.
-
 prN0tes: A Simple Note-Taking Application
 prN0tes is a minimalist web application built with FastAPI and MongoDB for efficient note management. It allows users to quickly add new notes with titles and descriptions, and mark them as important. The notes are then displayed dynamically on the homepage.
 
