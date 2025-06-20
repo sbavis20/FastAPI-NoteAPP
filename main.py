@@ -11,7 +11,7 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 
 templates = Jinja2Templates(directory="templates")
 
-conn = MongoClient("mongodb+srv://sawamuraeijun00001:p7Bepv4FrhwmrpLn@cluster0.we2fyip.mongodb.net/")
+conn = MongoClient("")
 
 
 @app.get("/", response_class=HTMLResponse)
